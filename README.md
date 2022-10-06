@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lertey
-- 👀 I’m interested in 55tv 
+- 👀 I’m interested in Java and Php
 - 🌱 I’m currently learning Java and Php
 - 💞️ I’m looking to collaborate on small companies or start-ups
 - 📫 How to reach me: Discord - Lertey#4071
