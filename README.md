@@ -1,6 +1,6 @@
-### Hi, I’m Illia - aka Lertey
-I`m a beginner Web Developer from Ukraine 
-
+# Hi, I’m Illia - aka Lertey
+I`m a beginner Web Developer from Ukraine <br>
+Ready to undertake any task to create your design. 
 
 ## Languages<br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,bootstrap)](https://skillicons.dev)
