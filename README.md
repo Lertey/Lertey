@@ -9,6 +9,6 @@ Ready to undertake any task to create your design.
 [![My tools](https://skillicons.dev/icons?i=linux,vscode,cloudflare,nginx,bash,figma,git,netlify)](https://skillicons.dev)
 
 ## Contacts<br>
-- Discord: Lertey#4071
+- Discord: lertey
 - Inst: [@\_Lertey._](https://www.instagram.com/_lertey._/)
 - Telegram: [@MrLertey](https://t.me/MrLertey)
